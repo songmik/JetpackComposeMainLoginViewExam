@@ -97,7 +97,7 @@ fun LoginBottomView() {
     ) {
         Icon(
             Icons.Default.Info,
-            contentDescription = "Google Logo"
+            contentDescription = "Login Logo"
         )
         Spacer(modifier = Modifier.padding(5.dp))
         Text(text = "로그인 버튼입니다.")
